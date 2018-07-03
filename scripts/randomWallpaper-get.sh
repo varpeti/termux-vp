@@ -2,6 +2,8 @@
 
 home="$HOME"
 url="https://alpha.wallhaven.cc/search?q=&categories=111&purity=110&sorting=random&order=desc"
+cd "$home/scripts"
+mkdir dataRandomWallpaper
 cd "$home/scripts/dataRandomWallpaper"
 mkdir out
 
